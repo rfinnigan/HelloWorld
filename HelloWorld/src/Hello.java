@@ -5,7 +5,8 @@ public class Hello {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello World");
+		new String hiThere = "Hello World"
+		System.out.println(hiThere);
 
 	}
 
